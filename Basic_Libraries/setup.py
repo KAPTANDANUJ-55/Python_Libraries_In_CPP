@@ -17,7 +17,7 @@ ext_modules = [
 
 setup(
     name="KaptanDanuj-easyhelper",
-    version="0.1.0",
+    version="0.1.3",
     description="Beginner friendly helper library powered by C++",
     ext_modules=ext_modules,
     setup_requires=["pybind11>=2.10.0"],
