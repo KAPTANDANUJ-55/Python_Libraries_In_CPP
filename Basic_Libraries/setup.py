@@ -7,7 +7,7 @@ class get_pybind_include:
 
 ext_modules = [
     Extension(
-        "easyhelper",
+        "danujeasyhelper",
         ["esyHelper.cpp"],
         include_dirs=[get_pybind_include()],
         language="c++",

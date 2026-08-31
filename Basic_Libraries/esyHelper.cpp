@@ -23,7 +23,7 @@ std::vector<T> remove_duplicates(const std::vector<T>& items) {
     return result;
 }
 
-PYBIND11_MODULE(easyhelper, m) {
+PYBIND11_MODULE(danujeasyhelper, m) {
     m.doc() = "A basic helper function which removes duplicate from list";
 
     // Integers Bind
