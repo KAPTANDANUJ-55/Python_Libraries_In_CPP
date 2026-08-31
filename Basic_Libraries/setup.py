@@ -16,7 +16,7 @@ ext_modules = [
 ]
 
 setup(
-    name="KaptanDanuj-easyhelper",
+    name="kaptandanuj-easyhelper",
     version="0.1.3",
     description="Beginner friendly helper library powered by C++",
     ext_modules=ext_modules,
