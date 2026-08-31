@@ -1,6 +1,0 @@
-esyHelper.cpp
-setup.py
-KaptanDanuj_easyhelper.egg-info/PKG-INFO
-KaptanDanuj_easyhelper.egg-info/SOURCES.txt
-KaptanDanuj_easyhelper.egg-info/dependency_links.txt
-KaptanDanuj_easyhelper.egg-info/top_level.txt
